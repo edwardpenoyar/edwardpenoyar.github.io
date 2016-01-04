@@ -34,7 +34,7 @@ div1 {
   color: black;
   font-family: helvetica;
   font-style: bold;
-  font-size: 8pt;
+  font-size: 12pt;
 
   display: flex;
     flex-direction: row;
