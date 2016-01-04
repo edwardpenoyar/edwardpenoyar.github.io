@@ -1,12 +1,12 @@
 body {
   background-image: url(http://www.earthseaimagery.com/images/steam_schooners_going_up_river_pc.jpg);
-  background-size: contain;
+  background-size: cover;
 }
 
 div3 {
   color: black;
-  font-family: helvetica, sans-serif;
-  font-size: 40pt;
+  font-family: helvetica;
+  font-size: 80pt;
 
   display: flex;
     flex-direction: row;
