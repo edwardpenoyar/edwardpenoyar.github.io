@@ -20,7 +20,8 @@ div2 {
   color: black;
   font-family: helvetica;
   font-style: italic;
-  font-size: 15pt;
+  font-style: bold;
+  font-size: 19pt;
 
   display: flex;
     flex-direction: row;
@@ -33,7 +34,7 @@ div1 {
   color: black;
   font-family: helvetica;
   font-style: bold;
-  font-size: 15pt;
+  font-size: 19pt;
 
   display: flex;
     flex-direction: row;
