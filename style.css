@@ -1,0 +1,43 @@
+body {
+  background-image: url(http://www.earthseaimagery.com/images/steam_schooners_going_up_river_pc.jpg);
+  background-size: contain;
+}
+
+div3 {
+  color: black;
+  font-family: helvetica, sans-serif;
+  font-size: 40pt;
+
+  display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+div2 {
+  color: black;
+  font-family: helvetica;
+  font-style: italic;
+  font-size: 15pt;
+
+  display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+}
+div1 {
+  color: black;
+  font-family: helvetica;
+  font-style: bold;
+  font-size: 15pt;
+
+  display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+}
